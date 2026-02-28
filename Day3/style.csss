@@ -1,0 +1,29 @@
+body {
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+.intro {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+}
+
+.decorate {
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: darkgreen;
+}
+
+.spacing {
+    line-height: 1.8;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
