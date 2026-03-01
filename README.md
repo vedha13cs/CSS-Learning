@@ -75,6 +75,31 @@ To understand how CSS text properties improve readability and design of webpages
 
 ---
 
+## 📅 Day 4 – CSS Box Model
+
+### 📌 What I Learned
+- Understanding CSS Box Model  
+- Difference between padding and margin  
+- How border affects layout  
+- How width and height work  
+
+### 💡 Concepts Practiced
+- Creating boxes with spacing  
+- Controlling layout using margin and padding  
+- Applying different border styles  
+
+### 🎯 Goal
+To clearly understand how spacing and layout work in CSS using the box model.
+
+---
+
+## 💻 Files Included
+- Day4/index.html  
+- Day4/style.css  
+
+---
+
+✨ Mastering layout fundamentals step by step.
 ✨ Improving typography skills step by step.
 ✨ Improving design skills step by step using CSS.
 ✨ Step by step learning CSS to build strong web development skills.
