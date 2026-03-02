@@ -99,6 +99,30 @@ To clearly understand how spacing and layout work in CSS using the box model.
 
 ---
 
+## 📅 Day 5 – CSS Display Property
+
+### 📌 What I Learned
+- Difference between block, inline and inline-block  
+- How display property controls layout  
+- How to hide elements using display: none  
+
+### 💡 Concepts Practiced
+- Creating different layout behaviors  
+- Comparing element spacing  
+- Understanding how elements occupy space  
+
+### 🎯 Goal
+To understand how the display property affects webpage structure and layout.
+
+---
+
+## 💻 Files Included
+- Day5/index.html  
+- Day5/style.css  
+
+---
+
+✨ Strengthening layout fundamentals step by step.
 ✨ Mastering layout fundamentals step by step.
 ✨ Improving typography skills step by step.
 ✨ Improving design skills step by step using CSS.
