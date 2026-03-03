@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+.container {
+    position: relative;
+    height: 200px;
+    background-color: #f0f0f0;
+    margin-bottom: 50px;
+}
+
+.box {
+    padding: 15px;
+    background-color: lightblue;
+    width: 150px;
+}
+
+/* Relative */
+.relative-box {
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+/* Absolute */
+.absolute-box {
+    position: absolute;
+    top: 50px;
+    right: 20px;
+    background-color: lightgreen;
+}
+
+/* Fixed */
+.fixed-box {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: pink;
+}
