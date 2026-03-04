@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+/* Flex Container */
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    height: 200px;
+    background-color: #f2f2f2;
+}
+
+/* Flex Items */
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
