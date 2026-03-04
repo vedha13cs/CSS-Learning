@@ -145,5 +145,30 @@ To understand how positioning helps in building advanced webpage layouts.
 - Day6/style.css  
 
 ---
+## 📅 Day 7 – CSS Flexbox (Part 1)
 
-✨ Moving towards advanced layout concepts.
+### 📌 What I Learned
+- Introduction to Flexbox
+- How display: flex works
+- Horizontal alignment using justify-content
+- Vertical alignment using align-items
+- Using gap for spacing
+
+### 💡 Concepts Practiced
+- Creating flexible layouts
+- Centering elements properly
+- Understanding container and items behavior
+
+### 🎯 Goal
+To understand how Flexbox helps in building modern responsive layouts.
+
+---
+
+## 💻 Files Included
+- Day7/index.html
+- Day7/style.css
+
+---
+
+✨ Learning modern layout techniques step by step.
+
