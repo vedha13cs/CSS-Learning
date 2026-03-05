@@ -170,5 +170,29 @@ To understand how Flexbox helps in building modern responsive layouts.
 
 ---
 
-✨ Learning modern layout techniques step by step.
+## 📅 Day 8 – CSS Flexbox (Part 2)
+
+### 📌 What I Learned
+- Using flex-direction: column
+- Using justify-content with space-around
+- Aligning items using align-items
+- Creating vertical layouts with Flexbox
+
+### 💡 Concepts Practiced
+- Building flexible layouts
+- Managing spacing between elements
+- Understanding vertical alignment
+
+### 🎯 Goal
+To practice Flexbox properties and improve layout control.
+
+---
+
+## 💻 Files Included
+- Day8/index.html
+- Day8/style.css
+
+---
+
+✨ Practicing modern layout techniques using Flexbox.
 
