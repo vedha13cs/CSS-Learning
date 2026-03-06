@@ -193,6 +193,30 @@ To practice Flexbox properties and improve layout control.
 - Day8/style.css
 
 ---
+## 📅 Day 9 – CSS Form Styling
 
-✨ Practicing modern layout techniques using Flexbox.
+### 📌 What I Learned
+- Styling input fields
+- Styling buttons
+- Styling labels and textarea
+- Creating a simple contact form
+
+### 💡 Concepts Practiced
+- Using padding and borders
+- Designing form layout
+- Improving user interface
+
+### 🎯 Goal
+To understand how CSS can style forms to make them user-friendly and attractive.
+
+---
+
+## 💻 Files Included
+- Day9/index.html
+- Day9/style.css
+
+---
+
+✨ Practicing real-world website components.
+
 
