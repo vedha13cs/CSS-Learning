@@ -217,6 +217,30 @@ To understand how CSS can style forms to make them user-friendly and attractive.
 
 ---
 
-✨ Practicing real-world website components.
+## 📅 Day 10 – Mini Website Project
+
+### 📌 What I Learned
+- Combining HTML and CSS together
+- Creating navigation bar
+- Using Flexbox for layout
+- Designing simple webpage sections
+
+### 💡 Concepts Practiced
+- Page structure with header, nav, section and footer
+- Flexbox layout for cards
+- Basic webpage styling
+
+### 🎯 Goal
+To build a simple webpage by combining all CSS concepts learned so far.
+
+---
+
+## 💻 Files Included
+- Day10/index.html
+- Day10/style.css
+
+---
+
+✨ Built my first styled mini website.
 
 
